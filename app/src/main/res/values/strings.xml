@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DispMovilesTest</string>
+    <string name="user">Usuario</string>
+    <string name="btn1">Boton 1</string>
+    <string name="btn2">Boton 2</string>
+    <string name="btn3">Siguiente</string>
+</resources>
